@@ -1,0 +1,12 @@
+{
+  "name": "dota-sniper-script",
+  "version": "1.0.0",
+  "main": "out/index.js",
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc -w"
+  },
+  "devDependencies": {
+    "@octarine/wrapper": "github:octarine-public/wrapper#master"
+  }
+}
