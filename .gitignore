@@ -1,0 +1,4 @@
+# OctaneStudio
+out/
+node_modules/
+.vscode/
